@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimApliACDAT</string>
+    <string name="text">stringfecha y hora</string>
+    <string name="obtener_fecha_y_hora">Obtener fecha y hora</string>
+</resources>
