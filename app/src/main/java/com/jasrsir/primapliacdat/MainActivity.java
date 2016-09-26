@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void actualizar() {
         texto.setText(new Date().toString());
     }
-
+    //Prueba de que funciona git hub 13.32
     @Override
     public void onClick(View v) {
         if (v == boton)
